@@ -1,0 +1,158 @@
+*{
+				margin: 0px;
+				padding: 0px;
+}
+
+
+.para1{
+				background: #6aa2ff;
+}
+
+.para1 h1{
+				text-align: center;
+				padding:  10px ;
+}
+
+.para1 img{
+				padding:10px 130px;
+}
+.para1 h2{
+				text-align: center;
+}
+.para1 p{
+				margin: 20px;
+}
+.para2{
+				background: #408cff;
+}
+.para2 h3{
+				text-align: center;
+				font-size: 30px;
+				padding: 10px ;
+}
+.para2 img{
+				padding: 10px 170px;
+}
+.para2 p{
+				margin: 20px;
+}
+.para3{
+				background: #2b82ff;
+}
+.para3 h4{
+				text-align: center;
+				font-size: 30px;
+				padding: 10px;
+}
+.para3 p{
+				margin: 20px;
+}
+.para4{
+				background: #1577ff;
+}
+.para4 h5{
+				text-align: center;
+				font-size: 30px;
+				padding: 10px;
+}
+.para4 p{
+				margin: 20px;
+}
+.para5{
+				background: #8083ff;
+}
+.para5 h6{
+				text-align: center;
+				font-size: 30px;
+				padding: 10px;
+}
+.para5 p{
+				margin: 20px;
+}
+.para6{
+				background: #6a78ff;
+}
+.para6 h6{
+				text-align: center ;
+				margin: 10px;
+				font-size: 30px;
+}
+.para6 p{
+				margin: 20px;
+}
+.para7{
+				background: #556dff;
+}
+.para7 h6{
+				text-align: center;
+				margin: 10px;
+				font-size: 30px;
+}
+.para7 p{
+				margin: 20px;
+}
+.para8 {
+				background: #95ccff;
+}
+.para8 h6{
+				text-align: center;
+				margin: 10px;
+				font-size: 30px;
+}
+.para8 p{
+				margin: 20px;
+}
+.para9 {
+				background: #80c1ff;
+}
+.para9 h6{
+				text-align: center;
+				margin: 10px;
+				font-size: 30px;
+}
+.para9 p{
+				margin: 20px;
+}
+.para10{
+				background: #6ab6ff;
+}
+.para10 h6{
+				text-align: center;
+				margin: 10px;
+				font-size: 30px;
+}
+.para10 p{
+				margin: 20px;
+}
+.para11 {
+				background: #0081ff;
+}
+.para11 h6{
+				text-align: center;
+				margin: 10px;
+				font-size: 30px;
+}
+.para11 p{
+				margin: 20px;
+				text-align: center;
+				font-size: 24px;
+}
+.para11 img{
+				padding: 0px 220px;
+}
+.para12 {
+				background: #0096ff;
+}
+.para12 h6{
+				text-align: center;
+				margin: 10px;
+				font-size: 30px;
+}
+.para12 p{
+				margin: 20px;
+				text-align: center;
+				font-size: 24px;
+}
+.para12 img{
+				padding: 0px 220px;
+}

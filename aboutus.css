@@ -1,0 +1,27 @@
+*{
+				margin: 0px;
+				padding: 0px;
+				text-decoration: none;
+				list-style: none;
+				box-sizing: border-box;
+}
+ nav {
+				background: peru;
+				
+}
+nav ul li {
+				padding: 20px 90px;
+				display: inline-block;
+}
+nav ul li a{
+				font-size: 22px;
+				font-family: 'Lora', serif;
+}
+body{
+				background: peachpuff;
+}
+.content{
+				font-size: 22px;
+				font-family: 'Lora', serif;
+				margin: 20px;
+}
